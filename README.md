@@ -1,2 +1,0 @@
-# Jseymany
-Final Project
